@@ -20,7 +20,7 @@ Critical - 25%
 
 
 
-All you have to do is report a bug here: https://github.com/iNextrix/ASTPP-Website or email to astpp-website-bugs@inextrix.com 
+All you have to do is report a bug here: https://github.com/iNextrix/ASTPP-Website/issues or email to astpp-website-bugs@inextrix.com 
 
 Our team will confirm the bug and award you with discount coupon with 3 months of validity.
 
